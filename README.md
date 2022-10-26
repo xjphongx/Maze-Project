@@ -26,9 +26,9 @@ None required.
 
 Download and unzip zip file. 
 
-### Sample Invocation
+### Run the Program
 
-None.
+Execute the index.html file.
 
 ### Features
 
