@@ -22,8 +22,7 @@ The assignment utilizes p5.js to provide visuals of the assignment.
 
 ### Setup and Installation
 
-Download and unzip zip file. When unzipped change file types of
-p5.js.txt and maze.js.txt
+Download and unzip zip file. 
 
 ### Sample Invocation
 
