@@ -20,6 +20,8 @@ The assignment utilizes p5.js to provide visuals of the assignment.
 
 ### External Requirements
 
+None required.
+
 ### Setup and Installation
 
 Download and unzip zip file. 
@@ -33,4 +35,4 @@ None.
 This program features a maze that is generated on runtime
 and a bot that traverses it.
 
-### Bugs
+
