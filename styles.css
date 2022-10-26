@@ -1,0 +1,21 @@
+body{
+    background: white;
+    text-align: center;
+}
+
+.title-text {
+    background: black;
+    color: white;
+    text-align: center;
+
+}
+
+.description-text{
+    color: black;
+}
+
+.maze-container {
+    text-align: center;
+    width: 100%;
+
+}
