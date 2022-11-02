@@ -11,6 +11,10 @@ which will then be traversed by a bot that utilizes backtracking to go
 from the beginning of the maze to the end.
 The assignment utilizes p5.js to provide visuals of the assignment.
 
+### Example Run
+![run1](https://user-images.githubusercontent.com/31776718/199368803-f051dd71-2fc1-4098-b883-b057bc9bdb75.gif)
+
+
 ### Contents
 
 -index.html
